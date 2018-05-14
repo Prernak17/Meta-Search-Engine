@@ -2,7 +2,7 @@
 
 A meta search engine to improve search engine accuracy.
 
-Aim 
+Aims - 
 
 ● Query 5 search engines simultaneously. 
 ● Rank the retrieved results using our ranking model. 
